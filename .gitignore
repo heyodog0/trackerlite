@@ -1,0 +1,7 @@
+.build/
+dist/
+.DS_Store
+.signing.env
+*.xcodeproj
+.swiftpm/
+data/data.corrupt.json
